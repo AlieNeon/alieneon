@@ -1,6 +1,6 @@
 # Stop there, check this out!
 
-![AlieNeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieneon&count_private=true&show_icons=true)
+[//]: <> (![AlieNeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=alieneon&count_private=true&show_icons=true))
 
 ## Cool badges of cool stuff 😎
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
